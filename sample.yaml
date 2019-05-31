@@ -1,0 +1,22 @@
+---
+schema: sample/food/v1
+metadata:
+  name: food-analysis
+  layeringDefinition:
+    layer: global
+data:
+  food:
+    tacos: yum
+    butter_beans: yuck
+---
+schema: sample/animals/v1
+metadata:
+  name: animal-analysis
+  layeringDefinition:
+    layer: site
+data:
+  animals:
+    bear: growl
+    cat: meow
+    dog: bark
+...

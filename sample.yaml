@@ -19,4 +19,8 @@ data:
     bear: growl
     cat: meow
     dog: bark
+---
+tacos: are neato
+metadata:
+  name: taco-analysis
 ...
